@@ -1,2 +1,2 @@
 # Data_Science_MC
-assignment submission
+This folder contains the python codes of my assignment submissions.
